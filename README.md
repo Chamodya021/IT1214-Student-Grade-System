@@ -13,6 +13,15 @@ The purpose of this project is to manage student records easily. It uses basic J
 
 ## How to Run the Program
 
-1. Open command prompt in this folder.
-2. Compile the files:
-   ```bash javac Student.java Main.java
+1. Open Command Prompt in the project folder.
+2. Compile the Java files:
+
+```bash
+javac Main.java Student.java
+```
+
+3. Run the program:
+
+```bash
+java Main
+```
